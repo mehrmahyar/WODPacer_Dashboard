@@ -1,0 +1,9 @@
+streamlit
+requests
+json
+pandas
+matplotlib
+numpy
+altair
+plotly
+st-aggrid
