@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import matplotlib.cm as cm
 import datetime
-from st_aggrid import AgGrid
+
 
 
 
