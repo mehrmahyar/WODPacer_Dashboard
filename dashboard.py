@@ -313,8 +313,8 @@ def plot_round_analysis(json_data):
 def show_dashboard():
     # Title
     left_co, cent_co,last_co = st.columns(3)
-    with cent_co:
-        st.image("resources/logo_clean.jpg",use_column_width="always")
+    # with cent_co:
+    #     st.image("/resources/logo_clean.jpg",use_column_width="always")
     st.title("Wodpacer")
     st.subheader("AI-Enhanced Performance Feedback for Functional Fitness", divider='red')
 
